@@ -1,2 +1,2 @@
 # nodespringjava
-spring java sample project
+spring java sample project example
